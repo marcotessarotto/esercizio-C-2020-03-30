@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <unistd.h>
 #include <string.h>
-#include <signal.h>
+
 
 void complete_reverse_unsigned_long(unsigned long * array, unsigned int array_len);
 void bubble_sort_unsigned_long(unsigned long * array, unsigned int array_dimension);
