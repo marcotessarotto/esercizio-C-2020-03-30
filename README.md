@@ -1,4 +1,4 @@
-# esercizio-C-2020-03-30
+# esercizio-C-2020-03-30 - "Fibonacci"
 
 Le specifiche dell'esercizio si trovano nel file 'specifiche.txt'.
 
